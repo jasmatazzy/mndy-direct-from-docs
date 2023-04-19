@@ -21,3 +21,16 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#files
+../.DS_Store
+        ../SweetBerriesCookingSchool/
+        ../dummyAPICaller/
+        ../edabit-practice/
+        ../javscript-practice/
+        ../mndy-jas-asana-file-migration/
+        ../mndy-jas-time-reporting/
+        ../monday <> graphql decoded/
+        ../quickstart-react/
+        ../unilife-apartment-app/
+        ../yummyio/
